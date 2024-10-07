@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "question": "👉🏽Há uma demanda no seu trabalho que não é sua função, mas caso não seja realizada haverá prejuízo para a empresa. Você resolve o problema, porém outra funcionária que recebe os aplausos no seu lugar e não faz nenhum movimento que demonstre gratidão à você.",
+            "options": [
+                {"answer":"1. Fica indignada, se sente injustiçada, não conta para ninguém, mas se ressente profundamente"},
+                {"answer":"2. Fica indignada, se sente injustiçada e vai tirar satisfação com a colega e expõe tudo ao seu superior. E só se sente satisfeita quando essa colega reconhece que errou;"},
+                {"answer":"3. Fica indignado, se sente injustiçado e vai até o seu supervisor, já que o mais importante é que saibam que foi você que resolveu tudo;"},
+                {"answer":"4. Não se afeta. Afinal, você está ali para ser útil, fazer o seu trabalho e não tem necessidade nenhuma de ser reconhecida, pois a sua satisfação é cumprir seu dever."}
+            ]
+        },
+        {
+            "question": "👉🏽Seu marido (se for casada) ou pais (se for solteira) está numa longa e estressante jornada de trabalho, você se prepara para recebê-lo na sexta com um belo jantar em casal, cheia de expetativa para aproveitarem a dois. Ele chega mega cansado, não repara na preparação, toma um banho, faz o prato, senta no sofá, liga a TV e ficam em silêncio...",
+            "options": [
+                {"answer":"1. Fica tentando chamar atenção, reclama da desatenção, desmancha a mesa e sem dar boa noite, se tranca no quarto super chateado;"},
+                {"answer":"2. Já chama a atenção dele brigando, mostrando o quanto foi ridículo não ter dado atenção pra tudo que você fez e Briga até que ele se sente à mesa e te dê atenção;"},
+                {"answer":"3. Briga com ela até que ela sente à mesa e passe a te dar atenção, afinal esse é o resultado que você deseja;"},
+                {"answer":"4. Entende que o dia deles não deve ter sido muito bom, desfaz a mesa, senta ao lado deles e os servem com a certeza de que amanhã será um dia melhor e que poderão se curtir mais."}
+            ]
+        },
+        {
+            "question": "👉🏽Em uma reunião com amigas você se sente excluída. Você: ",
+            "options": [
+                {"answer":"1. Fica tão mal que se isola, entristecida esperando que alguma delas venha te consolar."},
+                {"answer":"2. Acha um absurdo, gera uma confusão e vai embora chamando-as de falsas."},
+                {"answer":"3. Já pergunta logo qual é o problema delas com você, gerando aquele climão, já que espera que sejam sinceras visto que são suas amigas."},
+                {"answer":"4. Percebe que está meio deslocada e se ocupa em servi-las com o que pode sem constranger para não estragar a reunião. Afinal, deve ser só um mal dia para você. Ninguém te deve nada!."}
+            ]
+        }
+    ]
+}
