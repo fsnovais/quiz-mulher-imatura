@@ -6,7 +6,7 @@ export default function Intro() {
     <div className="home-card">
       <div className="left">
         <div className="intro-title">
-        <span>Qual o seu nível de maturidade?</span>
+        <span>Você Está MADURA ou IMATURA?</span>
         </div>
         <div className="home-info">
           <span>Vamos avaliar suas motivações para identificar em qual nível de maturidade está a sua personalidade.</span>
