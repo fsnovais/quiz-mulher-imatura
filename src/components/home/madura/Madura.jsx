@@ -1,7 +1,7 @@
-import "./antifragil.scss";
+import "./Madura.scss";
 import { HashLink as Link } from "react-router-hash-link";
 
-export default function Antifragil() {
+export default function Madura() {
   return (
     <div className="result2-card">
       <div className="left-result2">
@@ -11,7 +11,6 @@ export default function Antifragil() {
         </div>
         <div className="page2-info">
         <span className="result2-Info">
-        Voce é uma Mulher Camada Madura<br/>
         A mulher madura não é inerte, ela se permite moldar, lapidar, melhorar;  <br/>
         A mulher madura se permite errar, ela se permite correr riscos sem medo;<br/>
         A mulher madura pensa no coletivo, pensa no outro. <br/>

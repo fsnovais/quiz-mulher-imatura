@@ -1,7 +1,7 @@
-import "./fragil.scss";
+import "./Imatura.scss";
 import { HashLink as Link } from "react-router-hash-link";
 
-export default function Fragil() {
+export default function Imatura() {
   return (
     <div className="result1-card">
       <div className="left-result1">

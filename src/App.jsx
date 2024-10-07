@@ -1,9 +1,8 @@
 import "./app.scss"
 import HomePage from "./components/home/HomePage";
 import Questions from "./components/home/questions/Questions";
-import Fragil from "./components/home/fragil/Fragil";
-import Antifragil from "./components/home/antifragil/Antifragil";
-import Resistente from "./components/home/resistente/Resistente";
+import Imatura from "./components/home/imatura/Imatura";
+import Madura from "./components/home/madura/Madura";
 
 import 'bulma/css/bulma.min.css'
 import {
@@ -25,10 +24,10 @@ function App() {
           <Questions/>
         </Route>
         <Route path="/imatura" exact>
-          <Fragil/>
+          <Imatura/>
         </Route>
         <Route path="/madura" exact>
-          <Antifragil/>
+          <Madura/>
         </Route>
       </Switch>
     </div>

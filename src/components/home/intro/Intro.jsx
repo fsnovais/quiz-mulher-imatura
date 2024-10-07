@@ -12,6 +12,9 @@ export default function Intro() {
           <span>Vamos avaliar suas motivações para identificar em qual nível de maturidade está a sua personalidade.</span>
         </div>
         <div className="home-info">
+          <div className="mobile-img">
+            <img src="assets/pastora.jpg" alt="mulher" />
+          </div>
           <span>
             Amadurecer é o nosso destino.
             @FernandaBoaventura

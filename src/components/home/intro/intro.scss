@@ -19,6 +19,16 @@
       }
 
 }
+
+.mobile-img {
+    display: none;
+    @include mobile{
+        display: block;
+        height: 30vh;
+        width: 30vw;
+    
+    }
+}
 .left {
     height: 80%;
     width: 50%;
